@@ -32,7 +32,7 @@ Data Analysis Steps:
 Dashboard
 ![image](https://github.com/RohiniKonar/SQL-PowerBI-HRDashboard/assets/32761695/aee7e81f-0f65-4f6f-800c-2a0cd7637101)
 
-![image](https://github.com/RohiniKonar/SQL-PowerBI-HRDashboard/assets/32761695/f091b836-7dcb-4d7e-b0d9-6e8231950eaa)
+![image](https://github.com/RohiniKonar/SQL-PowerBI-HRDashboard/assets/32761695/dccff0fa-b84b-432e-b938-29f47063a2e1)
 
 Insights:
 •	There are more male employees
