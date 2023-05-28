@@ -17,8 +17,5 @@ Data Analysis Steps:
 
 
 Dashboard
-![image](https://github.com/RohiniKonar/SQL-PowerBI-HRDashboard/assets/32761695/9f9b7a37-8393-4eb3-a384-c3e7a5b49435)
-
-
-![image](https://github.com/RohiniKonar/SQL-PowerBI-HRDashboard/assets/32761695/f3e7f757-99d0-46e6-b55c-bc58f1f41d27)
+![image](https://github.com/RohiniKonar/SQL-PowerBI-HRDashboard/assets/32761695/aee7e81f-0f65-4f6f-800c-2a0cd7637101)
 
