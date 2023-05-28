@@ -1,4 +1,4 @@
-# SQL and PowerBI HR Dashboard
+# HR Dashboard using SQL and PowerBI 
 
 Data
 
